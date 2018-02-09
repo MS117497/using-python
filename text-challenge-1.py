@@ -1,0 +1,1 @@
+print("Michael " * 5)
