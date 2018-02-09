@@ -1,2 +1,5 @@
 print("Michael " * 5)
 print("Ha " * 2 + "Ho " * 2)
+print("**\n**")
+print((("*" * 3) + "\n") * 3)
+print("****\n" * 4)
